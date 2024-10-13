@@ -1,1 +1,8 @@
 Bonding is the secondary value accrual strategy of HellDAO. It allows HellDAO to acquire its own liquidity and other reserve assets such as SOL or USDC by selling HELL at a discount in exchange for these assets. 
+
+What is bonding ? 
+Bonding is a short-term, active strategy. Due to the price discovery mechanism in the secondary bond market, bond discounts can fluctuate, making their profitability less predictable. This requires constant monitoring to make bonding more profitable compared to staking, which is a more passive strategy.
+
+Bonding helps HellDAO accumulate its own liquidity. By increasing Protocol-Owned Liquidity (POL), the protocol ensures there’s always locked liquidity in trading pools, facilitating smoother market operations and offering protection to token holders.
+
+The key advantage for bond participants lies in price stability. Bonders commit their capital upfront and are guaranteed a fixed return at a specific future date. This return is paid in $HELL tokens, meaning their profit depends on the $HELL price when the newly minted tokens mature. As a result, bonders benefit the most from a stable or rising $HELL price!
