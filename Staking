@@ -1,1 +1,19 @@
 Staking is at the heart of HellDAO, designed to encourage long-term participation and stability in the protocol. HellDAO uses game theory principles to align user incentives, ensuring that staking is always the most beneficial choice for participants.
+
+----------------------------------
+What is staking? 
+Staking is the primary value accrual strategy of HellDAO. Stakers stake their HELL on our dApp to earn rebase rewards. 
+
+Staking is a passive, long-term strategy. The increase in your stake of HELL translates into a constantly falling cost basis converging to zero. This means even if the market price of HELL drops velow your initial purchase price, given a long enough staking period, the increase in your staked HELL balance should outpace the fall in price.
+
+The main benefit for stakers comes from supply growth. The protocol mints new HELL tokens from the Treasury, the majority of which are distributed to the stakers. Thus, the gain for stakers will come from their auto-compounding balances, though price exposure remains an important consideration. That is, if the increase in token balance outpaces the potential drop in price (due to inflation), stakers would make a profit.
+
+----------------------------------
+Dynamic Staking Mechanism
+HellDAO’s staking system is highly flexible, operating continuously, allowing users to stake, claim, or compound their $HELL tokens at their convenience.
+
+Claiming Rewards: Users who claim their rewards immediately receive 100% of their accrued rewards but must relock their stake for a minimum of one epoch to continue earning.
+
+Compounding: For users looking to amplify their rewards, choosing to compound not only provides 100% of their rewards but also offers an additional 5% bonus.
+
+Fees: A small 2.5% fee is applied to staking and unstaking, which helps sustain the ecosystem’s long-term health and growth.
